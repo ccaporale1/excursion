@@ -1,1 +1,48 @@
-"/* css file for excursion */" 
+/*Universal attributes */
+* {
+	background-color: black;
+	font-famly: Verdana;
+	text-align: center;
+	padding: all;
+}
+
+/* heading styles */
+
+h1 {
+	color: white;
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-famly: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+/* footer styles*/
+footer {
+	color: white;
+	text-align: right;
+}
+
+/* other id styles */
+#link {
+	color:  aquamarine;
+	text-align: center;
+	font-size: 16px;
+}
+
+#description {
+	font-famly: Verdana;
+	font-size: 21px;
+	color:  gray;
+}
+
+/* img style */
+
+img {
+	padding: 10px;
+}
